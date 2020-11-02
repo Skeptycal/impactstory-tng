@@ -7,7 +7,7 @@ gender-detector==0.1.0
 gunicorn==19.4.5
 iso8601==0.1.4
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.10.1
 langdetect==1.0.5
 mandrill==1.0.37
 MarkupSafe==0.23
